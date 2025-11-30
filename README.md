@@ -15,6 +15,7 @@ A fully console-based JavaScript quiz game using `prompt()` and `alert()`.
 1. Open quiz.js in browser  
 2. Click OK → prompts shuru ho jayenge  
 3. Answer karte jao → final score milega
+4.LIVE DEMO - https://shivamm-cyber.github.io/LAB-ASSIGNMENT-4
 
 Made with ❤️ by Shivam  
 BCA Cybersecurity
